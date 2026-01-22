@@ -8,6 +8,7 @@ Abubakar A. Sadiq (2026). ML_QSAR_Bioactivity_Predictions. GitHub repository,
 Available at: https://github.com/abubakarabdulsadiq-oss/ML_QSAR_Bioactivity_Predictions
 -------------------------------------------------------------------------------------------------------------------------------
 
+# DESCRIPTION
 📌 Machine Learning–Driven QSAR and Bioactivity Prediction
 
 This repository provides a step-by-step, end-to-end implementation of machine learning workflows for QSAR modeling and bioactivity prediction in small-molecule drug discovery.
