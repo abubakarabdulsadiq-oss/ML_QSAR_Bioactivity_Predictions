@@ -1,5 +1,12 @@
 # ML_QSAR_Bioactivity_Predictions
 End-to-end Python workflows for bioactivity prediction and QSAR modeling using machine learning, applied to small-molecule drug discovery datasets.
+-------------------------------------------------------------------------------------------------------------------------------
+# Citation
+If you use or adapt the materials in this repository for academic, training, or research purposes, please cite this work as:
+
+Abubakar A. Sadiq (2026). ML_QSAR_Bioactivity_Predictions. GitHub repository,
+Available at: https://github.com/abubakarabdulsadiq-oss/ML_QSAR_Bioactivity_Predictions
+-------------------------------------------------------------------------------------------------------------------------------
 
 📌 Machine Learning–Driven QSAR and Bioactivity Prediction
 
